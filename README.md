@@ -81,7 +81,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [Blender](https://www.blender.org/) - Open Source 3D Modeling
 * [Gimp](http://www.gimp.org/) - Edit pictures, a Photoshop-like program that's free.
-* [Giphy](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) - Capture and create GIFs.
+* [Giphy](https://itunes.apsudo snap install vlcple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) - Capture and create GIFs.
 * [Google Photos](https://photos.google.com/apps) - Google's photo storage.
 * [Krita](https://krita.org/en/) - Digital Painting.
 * [SketchUp](http://www.sketchup.com/products/sketchup-make) - 3D Drawing tool.
@@ -251,6 +251,26 @@ sudo apt-get install openssh-server
 ```
 
 Also see: [SSH/OpenSSH/Configuring](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)
+
+### Screen Recording (OBS Studio)
+
+```
+sudo apt update
+sudo apt install obs-studio
+```
+
+### Virtualbox in Ubuntu
+
+```
+sudo apt-get update
+sudo apt-get install virtualbox
+sudo apt-get install virtualbox—ext–pack
+```
+### VLC in Ubuntu
+
+```
+sudo snap install vlc
+```
 
 ### Other flavors
 

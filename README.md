@@ -121,12 +121,12 @@ I use Mac most of the time now, so this list is rather extensive.
 I don't use Windows OS much anymore, so this list will be shorter, as many of the software available for Mac is also available on Windows.
 
 * [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
-* [Classic Shell](http://www.classicshell.net/) - If you use Windows 8 and want the Start Menu back.
-* [Gizmo Drive](http://arainia.com/software/gizmo/overview.php?nID=4) - Mount ISOs.
-* [Microsoft Security Essentials](http://windows.microsoft.com/mse) - Antivirus/Antispyware security software.
 * [PDF-XChange Viewer](http://www.tracker-software.com) - Open PDFs.
-* [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Power user's productivity utilties.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
+* [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Advanced system utilities.
+* [T-Clock Redux](https://github.com/White-Tiger/T-Clock) - Custom date/time format in taskbar.
+* [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Custom positioning of taskbar icons.
 
 ## Web Browser Extensions ##
 
@@ -136,6 +136,7 @@ These are some of my favorite web-browser extensions that I use in Google Chrome
 
 * [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
+* [ByPass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass website paywalls.
 * [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
 * [Keepa](https://keepa.com/) - Amazon price tracker.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.

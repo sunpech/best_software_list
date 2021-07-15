@@ -121,6 +121,8 @@ I use Mac most of the time now, so this list is rather extensive.
 I don't use Windows OS much anymore, so this list will be shorter, as many of the software available for Mac is also available on Windows.
 
 * [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
+* [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - The Free File Renaming Utility for Windows.
+Rename multiple files with the click of a button..
 * [PDF-XChange Viewer](http://www.tracker-software.com) - Open PDFs.
 * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Power user's productivity utilties.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.

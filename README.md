@@ -32,7 +32,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [Dropbox](https://db.tt/pHCTifn) - Service that keeps your files safe, synced, and easy to share.
 * [Drobo](http://www.drobo.com/) - Get the software, after the hardware.
-* [Google Backup & Sync](https://www.google.com/drive/download/backup-and-sync/) - Google's cloud service tied to your Gmail.
+* [Google Drive](https://www.google.com/drive/download/) - Google's cloud service tied to your Gmail.
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
 
 ### Internet
